@@ -1,0 +1,150 @@
+{
+   "Name": {
+      "english": "Jaydeep Lokhande",
+      "marathi": "जयदीप लोखंडे"
+   },
+   "JobProfile": {
+      "english": "BUSINESSMAN",
+      "marathi": "BUSINESSMAN"
+   },
+   "Facebook": "",
+   "Instagram": "",
+   "Email": "mailto:lokhandejaydip@gmail.com",
+   "CompanyLink":"https://shri-dattakrupa-multiservices.business.site/",
+   "CompanyExperience":"3 Years.",
+   "CompanyName": {
+      "english": "Shri Dattakrupa Multi Services,Vaijapur",
+      "marathi": "श्री दत्तकृपा मल्टी सर्व्हिसेस,वैजापूर"
+   },
+   "Hobby": {
+      "english": "I love To Travel, Listen Music and Play Cricket.",
+      "marathi": "मला प्रवास करणे, संगीत ऐकणे आणि क्रिकेट खेळायला आवडते."
+   },
+   "PersonalInformation": {
+     
+      "FullName": {
+         "english": "Jaydeep Sunil Lokhande",
+         "marathi": "जयदीप सुनील लोखंडे"
+      },
+      "DateOfBirth": {
+         "english": "24/12/1993",
+         "marathi": "२४/१२/१९९३"
+      },
+      "BirthPlace": {
+         "english": "Vaijapur",
+         "marathi": "वैजापूर"
+      },
+      "BirthTime": {
+         "english": "10:00AM",
+         "marathi": "१०:०० सकाळी"
+      },
+      "Colour": {
+         "english": "Blonde",
+         "marathi": "गोरा"
+      },
+      "Height": {
+         "english": "5.4 Feet",
+         "marathi": "५.४ फूट"
+      },
+      "BloodGroup": {
+         "english": "O +Ve",
+         "marathi": "O +Ve"
+      },
+      "Gotra": {
+         "english": "Kashyap",
+         "marathi": "काश्यप"
+      },
+      "Ras": {
+         "english": "",
+         "marathi": ""
+      },
+      "Kuldaivat": {
+         "english": "Tulja Bhavani(Tuljapur)",
+         "marathi": "तुळजा भवानी (तुळजापुर)"
+      },
+      "RasName": {
+         "english": "Limbaji",
+         "marathi": "लिंबाजी"
+      },
+      "Caste": {
+         "english": "Hindu-Tilvan Teli",
+         "marathi": "हिंदू - तिळवण तेली"
+      }
+   },
+   "Qualification": {
+      "Education": {
+         "english": "PG IN MA Computer Hardware & Networking",
+         "marathi": "पीजी इन एमए संगणक हार्डवेअर व नेटवर्किंग"
+      },
+      "Job": {
+         "english": "Shri Dattakrupa Multi Services,Vaijapur",
+         "marathi": "श्री दत्तकृपा मल्टी सर्व्हिसेस,वैजापूर"
+      }
+   },
+   "FamilyInformation": {
+      "GrandfatherName": {
+         "english": "",
+         "marathi": ""
+      },
+      "GrandmotherName": {
+         "english": "",
+         "marathi": ""
+      },
+      "FatherName": {
+         "english": "Shri Sunil Gopinath Lokhande (Teacher ZP School Nagina Pimpalgaon)",
+         "marathi": "श्री सुनील गोपीनाथ लोखंडे (शिक्षक जि.प्रा.शाळा नगीना पिंपळगाव)"
+      },
+      "MotherName": {
+         "english": "Mrs. Bharati Sunil Lokhande",
+         "marathi": "सौ भारती सुनील लोखंडे"
+      },
+      "SisterName": {
+         "english": "",
+         "marathi": ""
+      },
+      "BrotherName": {
+         "english": "Mr. Abhijit Sunil Lokhande",
+         "marathi": "श्री अभिजित सुनील लोखंडे"
+      },
+      "Uncle": {
+         "english": "",
+         "marathi": ""
+      },
+      "Mama": {
+         "english": "Shri Ramesh Narayan Sonawane (Teacher Kannad)",
+         "marathi": "श्री रमेश नारायण सोनवणे (शिक्षक कन्नड)"
+      },
+      "Aatya": {
+         "english": "",
+         "marathi": ""
+      },
+      "Mavshi": {
+         "english": "",
+         "marathi": ""
+      },
+      "Relatives": {
+         "english": "",
+         "marathi": ""
+      }
+   },
+   "ContactMe": {
+      "EmailId": {
+         "english": "lokhandejaydip@gmail.com",
+         "marathi": "lokhandejaydip@gmail.com"
+      },
+      "MobileNo": {
+         "english": "9673836934, 9028687075",
+         "marathi": "9673836934, 9028687075"
+      }
+   },
+   "Photos":{
+      "ProfilePhotoName":"assets/Profile.jpg",
+      "GalleryPhoto":{
+         "Photo1":"assets/G(1).jpg",
+         "Photo2":"assets/G(2).jpg",
+         "Photo3":"assets/G(3).jpg",
+         "Photo4":"assets/G(4).jpg",
+         "Photo5":"assets/G(5).jpg"
+      }
+   }
+}
